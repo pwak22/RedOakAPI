@@ -1,0 +1,6 @@
+@RedOakAPI_HostAddress = http://localhost:5159
+
+GET {{RedOakAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
